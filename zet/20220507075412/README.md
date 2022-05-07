@@ -10,4 +10,4 @@ So I will note down the guide to make a zet.
 * it should include a reference after the body
 * it should contain hashtags for easy searches later
 * stick with single level list
-* no sub headings
+* no sub headings(which are more for posts)
