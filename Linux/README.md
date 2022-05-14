@@ -54,3 +54,29 @@ When displaying a file with large text, you can use the keyword `less`
 
 `hostname`-displays name of host
 `username`-displays name of user
+
+- `sudo` - it means *do this as **root*** (superuser do)
+
+- `apt` - the package manager apt(advanced packaging tool). read more: `man apt`
+
+- `apt search` - to search for packages.
+* `apt search ^neo` - search for all packages starting with neo
+
+* `apt update` - update al sources for packages.
+* `apt upgrade` - upgrade all packages to latest version.
+
+`apt-get` - use it when writing a script.
+
+* Never use `apt` for a script use `apt-get` and `apt-cache`.
+
+`apt install` install aa package
+
+* `sudo apt install neofetch`
+
+
+`apt remove` to remove a package.
+
+`apt autoremove` will everything taking space from the removed package. unused packages and dependencies.
+
+### Weekly challenge
+- More research on commands

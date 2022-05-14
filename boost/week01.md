@@ -9,18 +9,12 @@
 
 Linux commands
 
-- `sudo` - it means *do this as **root*** (superuser do)
 
-- `apt` - the package manager apt(advanced packaging tool). read more: `man apt`
-
-* `apt upadte` - update al sources for packages.
-* `apt upgrade` - upgrade all packages to latest version.
-
-`apt-get` - use it when writing a script.
-
-* Never use `apt` for a script use `apt-get` and `apt-cache`.
 
 ## Basic commands
 
 ### what  is an "inode"
 - an entry point to
+
+### what  is a package manager
+- A shell program bundles to help install, uninstall etc packages.
