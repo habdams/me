@@ -2,6 +2,13 @@
 
 - `ls` : list items command 
 
+- `cd` to change directory.
+
+* `cd -` change to previous directory
+* `cd` change to home directory
+* `cd ~` change to home directory
+* `cd /` change to root directory
+
 `$ ls /Documents`
 
 - to shutdown system
@@ -40,3 +47,10 @@ When displaying a file with large text, you can use the keyword `less`
 `$ less large-text.txt`
 
 `more` will do just like it says, a pageful
+
+`man` shows manual information about command.
+
+`init 0` - shows down the system, return the systems state to 0. Accessible if you have adminstrative rights.
+
+`hostname`-displays name of host
+`username`-displays name of user
