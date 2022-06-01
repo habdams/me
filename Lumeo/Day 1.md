@@ -17,7 +17,11 @@ _Work Log_
 - run `git submodule init`
 - then run `git submodule update`
 
+
 - Had a quick walkthrough of how to use Shortcuts(Project management app)
 
 _Quick Tip from Patricia_:
 - Raise a PR from SHortcut, it prepopulate the PR form on github and it's easy for shortcut to track PR's that way. 
+
+#### Reference
+-  [Sub modules in git](https://git-scm.com/book/en/v2/Git-Tools-Submodules)
