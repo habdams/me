@@ -1,23 +1,23 @@
 If an SCSS variable does not exist, consider creating one!
 If a custom CSS color property does not exist, scream at me.
 
-styles/variables
-  colors (CSS custom properties)
-    danger.scss
-    primary.scss
-    secondary.scss
-    success.scss
-    ui.scss
-    warning.scss
+#### styles/variables
+  - colors (CSS custom properties)
+    - danger.scss
+    - primary.scss
+    - secondary.scss
+    - success.scss
+    - ui.scss
+    - warning.scss
 
-  dimensions.scss
-  misc.scss -- border-radius & box-shadows.
+  - dimensions.scss
+  - misc.scss -- border-radius & box-shadows.
 
-  z-index.scss
-  font.scss
+  - z-index.scss
+  - font.scss
 
 
-Most important styling components
+#### Most important styling components
 
 For headlines (or headline styles), use
 <Heading level="1|2|3|4" />
